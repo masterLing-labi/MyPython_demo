@@ -23,7 +23,7 @@ chardet==3.0.4
 click==6.7
 colorama==0.3.9
 colorlog==4.0.2
-cryptography==2.6.1
+cryptography==3.2
 cryptokit==0.0.7
 cssselect==1.0.3
 ddt==1.1.2
